@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe-React_Game/static/css/main.bb104fc5.css",
+    "main.js": "/Tic-Tac-Toe-React_Game/static/js/main.4b6a7e14.js",
+    "index.html": "/Tic-Tac-Toe-React_Game/index.html",
+    "main.bb104fc5.css.map": "/Tic-Tac-Toe-React_Game/static/css/main.bb104fc5.css.map",
+    "main.4b6a7e14.js.map": "/Tic-Tac-Toe-React_Game/static/js/main.4b6a7e14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb104fc5.css",
+    "static/js/main.4b6a7e14.js"
+  ]
+}
